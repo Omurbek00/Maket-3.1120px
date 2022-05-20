@@ -117,6 +117,8 @@ span {
     margin: 0 16px 0 0;
 }
 .shedule__img {
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
     width: 531px;
     height: 383px;
 }

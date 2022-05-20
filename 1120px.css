@@ -3,8 +3,8 @@ html {
     height: 535px;
 }
 body {
-    max-width: 1120px;
-    max-height: 535px;
+    width: 1120px;
+    height: 535px;
     font-family: 'TT Lakes';
 }
 .button {
